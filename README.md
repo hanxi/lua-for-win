@@ -2,7 +2,7 @@
 
 不需要下载 [Virtual Studio IDE][VS]，只需要下载 [Visual Studio 2017 BuildTools][VSB]。
 
-Lua 源码我下载的是 [lua53][lua53]，确保解压的路径结构是这有的：
+Lua 源码我下载的是 [lua53][lua53]，确保解压的路径结构是这样的：
 
 ```shell
 .
