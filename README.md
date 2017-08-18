@@ -24,7 +24,7 @@ Lua 源码我下载的是 [lua53][lua53]，确保解压的路径结构是这样�
 
 - 编译：`make`
 - 安装：以管理员身份运行 `install.bat`
-- 卸载: 以管理员身份运行 `uninstall.bat`
+- 卸载：以管理员身份运行 `uninstall.bat`
 
 
 [NMAKE]: https://msdn.microsoft.com/zh-cn/library/dd9y37ha.aspx
