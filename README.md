@@ -26,6 +26,7 @@ Lua 源码我下载的是 [lua53][lua53]，确保解压的路径结构是这样�
 - 安装：以管理员身份运行 `install.bat`
 - 卸载：以管理员身份运行 `uninstall.bat`
 
+在这里下载已编译好的版本：[lua-for-win.zip](https://github.com/hanxi/lua-for-win/releases/tag/lua-5.3.4)
 
 [NMAKE]: https://msdn.microsoft.com/zh-cn/library/dd9y37ha.aspx
 [VS]: https://www.visualstudio.com/zh-hans/downloads/
